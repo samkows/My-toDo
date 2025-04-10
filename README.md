@@ -13,7 +13,13 @@
 - **Язык**: Kotlin (было Java)  
 - **Архитектура**: MVVM + Clean Architecture  
 - **База данных**: Room  
-- **Асинхронность**: Coroutines  
+- **Асинхронность**: Coroutines
+
+## 📥 Установка
+
+```bash
+git clone https://github.com/samkows/My-toDo.git
+```
 
 </details>
 
@@ -32,4 +38,9 @@ Task management app featuring:
 - **Database**: Room  
 - **Async**: Coroutines  
 
+## 📥 Installation
+
+```bash
+git clone https://github.com/samkows/My-toDo.git
+```
 </details>
