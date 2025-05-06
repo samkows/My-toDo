@@ -1,16 +1,20 @@
-# ToDo App (Java → Kotlin) 
+# ToDo App (Java + XML → Kotlin + Jetpack Compose) 
 
 <details>
 <summary>🇷🇺 Русский</summary>
 
 ## 📱 О проекте
 Приложение для управления задачами с:
-- Миграцией с Java на Kotlin  
+- Миграцией с Java на Kotlin
+- Полным переходом на Jetpack Compose
+- Внедрением зависимостей через Hilt
 - Архитектурой MVVM  
 - Room для хранения данных  
 
 ## 🛠 Технологии  
-- **Язык**: Kotlin (было Java)  
+- **Язык**: Kotlin (было Java)
+- **UI**: Jetpack Compose
+- **DI**: Hilt  
 - **Архитектура**: MVVM + Clean Architecture  
 - **База данных**: Room  
 - **Асинхронность**: Coroutines
@@ -32,12 +36,16 @@ git clone https://github.com/samkows/My-toDo.git
 
 ## 📱 About  
 Task management app featuring:
-- Migration from Java to Kotlin  
+- Migration from Java to Kotlin
+- Complete Jetpack Compose UI
+- Dependency injection with Hilt
 - MVVM architecture  
 - Room database  
 
 ## 🛠 Tech Stack  
-- **Language**: Kotlin (originally Java)  
+- **Language**: Kotlin (originally Java)
+- **UI**: Jetpack Compose
+- **DI**: Hilt
 - **Architecture**: MVVM + Clean Architecture  
 - **Database**: Room  
 - **Async**: Coroutines  
